@@ -1,1 +1,2 @@
 and put there half the text of your favorite song.
+Make sure github has a song.txt file with the lyrics.
